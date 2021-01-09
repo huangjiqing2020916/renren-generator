@@ -1,0 +1,2 @@
+# renren-generator
+renren-generator
